@@ -6,7 +6,7 @@ ul {
 
 li {
     display: block;
-    padding: 16px;
+    padding: 25px;
 }
 
 li:nth-child(odd) {
@@ -21,4 +21,12 @@ li.selected {
 
 li.selected~li:nth-child(odd) {
     background-color: orange;
+}
+
+#hot #pink p.selected {
+    background-color: hotpink;
+    color: white;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-decoration: wavy;
 }
