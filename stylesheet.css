@@ -23,7 +23,7 @@ li.selected~li:nth-child(odd) {
     background-color: orange;
 }
 
-#hot #pink p.selected {
+p.selected {
     background-color: hotpink;
     color: white;
     font-weight: bolder;
