@@ -30,3 +30,10 @@ p.selected {
     text-decoration: underline;
     text-decoration: wavy;
 }
+
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: #eeeae4;
+}
