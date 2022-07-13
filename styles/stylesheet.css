@@ -39,7 +39,6 @@ a.linkylink {
 p.selected {
     color: white;
     font-weight: bolder;
-    text-decoration-style: wavy;
 }
 
 * {
