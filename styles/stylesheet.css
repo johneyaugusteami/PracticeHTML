@@ -12,18 +12,31 @@ footer {
     margin-bottom: 20px;
 }
 
+header {
+    background-image: linear-gradient(90deg, #8bee09, #35aeff)
+}
+
+
+nav {
+    background-image: linear-gradient(90deg, #ee1809, #35aeff);
+}
+
+
 article {
+    background-image: linear-gradient(90deg, #eedf09, #35aeff);
     float: left;
     margin-right: 20px;
     width: 60%;
 }
 
 aside {
+    background-image: linear-gradient(90deg, #ee09e2, #15fd28);
     float: left;
     width: calc(40% - 140px);
 }
 
 footer {
+    background-image: linear-gradient(90deg, #ee8b09, #ff35b2);
     clear: both;
 }
 
